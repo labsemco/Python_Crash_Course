@@ -33,7 +33,7 @@ Este curso está diseñado para que el estudiante recorra las notebooks en este 
 * Instala un manejador de git (Se recomienda Github Desktop o GitKraken)
 * Clona este repositorio en alguna carpeta local en tu computadora personal.
 * Puedes trabajar en esta carpeta, pero no podrás subir ningun cambio al repositorio porque está habilitado para sólo lectura.
-* Cuando tengas resultados entregables, copia la notebook en tu carpeta personal del repsoitorio SERVICIO SOCIAL.
+* Cuando tengas resultados entregables, copia la notebook en tu carpeta personal del repositorio SERVICIO SOCIAL.
 * En ese repositorio si podrás realizar cambios usando tu manejador de git y haciendo commit y push.
 
 Si tienes dudas consulta al personal del laboratorio.
