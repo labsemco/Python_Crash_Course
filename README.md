@@ -6,6 +6,17 @@
 Material del diplomado en Ciencia de Datos con Python 2019 del Centro de Investigación en Ciencias de la Universidad Autónoma del Estado de Morelos.
 
 Este curso está diseñado para que el estudiante recorra las notebooks en este orden:
+ol {
+    counter-reset: item;
+    padding-left: 10px;
+}
+li {
+    display: block
+}
+li:before {
+    content: counters(item, ".") " ";
+    counter-increment: item
+}
 <ol>
  <li> Las_bases_para_usar_Python </li>
  <li> Modulos_y_Programacion_Orientada_a_Objetos </li>
